@@ -1,0 +1,41 @@
+    
+    body{
+	margin: 0 auto;
+	background-image: url("details.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 800px;
+}
+
+.container{
+	width: 500px;
+	height: 350px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44, 62, 80,0.7);
+	margin-top: 100px;
+}
+
+.container img{
+	width: 150px;
+	height: 100px;
+	margin-top: -60px;
+}
+
+.form{
+   width: 250px;
+    height: 400px;
+    background: linear-gradient(to top,rgba(0,0,0,0.5)100%,rgba(0,0,0,0.5)100%);
+    position: absolute;
+    top: 200px;
+    right: 450px;
+
+    border-radius: 10px;
+    padding: 25px;
+
+}
+h3{
+    color: white;
+}
+h4{
+    color:white;
+}
